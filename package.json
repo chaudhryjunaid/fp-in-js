@@ -1,0 +1,23 @@
+{
+  "name": "fp-in-js",
+  "version": "1.0.0",
+  "description": "Code samples and discussion from the book 'Functional Programming in JavaScript'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudhryjunaid/fp-in-js.git"
+  },
+  "author": "Chaudhry Junaid",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/chaudhryjunaid/fp-in-js/issues"
+  },
+  "homepage": "https://github.com/chaudhryjunaid/fp-in-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "ramda": "^0.25.0"
+  }
+}
